@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) which uses kirimase to generate all the boilerplate code. This is a simple linktree clone made while following kirimase tutorial.
+
+## Screenshots
+
+![image](screenshots/1.png)
+![image](screenshots/2.png)
+![image](screenshots/3.png)
+![image](screenshots/4.png)
+![image](screenshots/5.png)
+![image](screenshots/6.png)
+![image](screenshots/7.png)
+![image](screenshots/8.png)
+![image](screenshots/9.png)
+
 
 ## Getting Started
 
